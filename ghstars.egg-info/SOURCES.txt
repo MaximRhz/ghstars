@@ -1,0 +1,9 @@
+setup.py
+ghstars/core.py
+ghstars.egg-info/PKG-INFO
+ghstars.egg-info/SOURCES.txt
+ghstars.egg-info/dependency_links.txt
+ghstars.egg-info/entry_points.txt
+ghstars.egg-info/not-zip-safe
+ghstars.egg-info/requires.txt
+ghstars.egg-info/top_level.txt
